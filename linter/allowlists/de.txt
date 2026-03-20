@@ -416,6 +416,7 @@ Kartenlayern
 Kartentechnik
 Kassenbereich
 Kassenschnittstellen
+Kategoriezuweisung
 Kaufprozess
 Kennwortrichtlinien
 Kennwortrichtlinieneinstellungen
